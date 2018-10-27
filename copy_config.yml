@@ -1,0 +1,5 @@
+:source_root: /mnt/seedbox/dataVol
+:destination: /home/eh/dataVol
+:seen: /home/eh/bin/seen.yml
+:log_location: /home/eh/copy_config.log
+:wget: wget --no-check-certificate --user=user --password=1f62cfdb39 "https://95.211.174.176/~user/dataVol/
